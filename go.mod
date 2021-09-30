@@ -1,4 +1,4 @@
-module github.com/chrj/smtpd
+module github.com/REQUEA/smtpd
 
 go 1.14
 
