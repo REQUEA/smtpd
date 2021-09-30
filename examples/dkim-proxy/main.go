@@ -11,7 +11,7 @@ import (
 	"log"
 	"net/smtp"
 
-	"github.com/chrj/smtpd"
+	"github.com/REQUEA/smtpd"
 	"github.com/emersion/go-msgauth/dkim"
 )
 
